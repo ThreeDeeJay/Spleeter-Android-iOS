@@ -1,22 +1,27 @@
+<div align="center">
+  <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA">Slack</a>
+    ·
+   <a href="https://www.faceonlive.com/">Website</a>
+    ·
+   <a href="https://portfolio.faceonlive.com">Portfolio</a>  
+    ·
+    <a href="https://www.huggingface.co/FaceOnLive">Hugging Face</a>
+    ·
+    <a href="https://getapi.faceonlive.com">Free APIs</a>
+    ·
+    <a href="https://github.com/FaceOnLive/OpenKYC">OpenKYC</a>  
+    ·
+    <a href="https://github.com/FaceOnLive/Mask-Face-Attendance-App-Flutter">Face Attendance</a>  
+    ·
+    <a href="mailto:contact@faceonlive.com">Contact</a>
+</div>
 <h1 align="center">Spleeter for Mobile</h1>
 <p align="center">On-device, Offline Spleeter Solution For Android & iOS</p>
-
-<p align="center">
-<a target="_blank" href="mailto:contact@faceonlive.com"><img src="https://img.shields.io/badge/email-contact@faceonlive.com-blue.svg?logo=gmail " alt="www.faceonlive.com"></a>&emsp;
-<a target="_blank" href="https://t.me/faceonlive"><img src="https://img.shields.io/badge/telegram-@faceonlive-blue.svg?logo=telegram " alt="www.faceonlive.com"></a>&emsp;
-<a target="_blank" href="https://wa.me/+17074043606"><img src="https://img.shields.io/badge/whatsapp-faceonlive-blue.svg?logo=whatsapp " alt="www.faceonlive.com"></a>&emsp;
-<a target="_blank" href="skype:demidemi1125?chat"><img src="https://img.shields.io/badge/skype-demidemi1125-blue.svg?logo=skype " alt="www.faceonlive.com"></a>
-</p>
 
 Spleeter is Deezer source separation library with pretrained models written in Python and uses Tensorflow. It makes it easy to train source separation model (assuming you have a dataset of isolated sources), and provides already trained state of the art model for performing various flavour of separation
 
 <h3>We optimized 5 Stems model and deployed on Android & iOS.</h3>
 Vocals / drums / bass / piano / other separation
-</br>
-</br>
-
-## :muscle:  Partnership / Cooperation / Project Discussion
-&emsp;<a href="mailto:contact@faceonlive.com?subject=[GitHub]%20Spleeter%20For%20Mobile"><img src="https://img.shields.io/badge/mail-%23DD0031.svg?&style=flat&logo=gmail&logoColor=white"  height="64"/></a>
 </br>
 </br>
 
